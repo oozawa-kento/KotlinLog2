@@ -12,6 +12,7 @@ abstract class Animal {
         this.hobby = hobby
     }
 
+
     abstract fun say()
 
 
